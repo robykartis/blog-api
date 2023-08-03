@@ -1,0 +1,39 @@
+1.Beranda:
+Deskripsi singkat tentang perusahaan Anda dan layanan yang ditawarkan.
+Gambar atau tampilan contoh aplikasi yang telah dibuat.
+
+2.Layanan:
+Daftar lengkap layanan yang Anda tawarkan, seperti pembuatan aplikasi mobile, web, atau desktop.
+Deskripsi untuk setiap layanan, mencakup keahlian yang dimiliki dan teknologi yang digunakan.
+
+3.Portofolio:
+Galeri proyek aplikasi yang telah Anda selesaikan.
+Deskripsi singkat tentang setiap proyek dan tantangan yang berhasil diatasi.
+
+4.Testimoni Pelanggan:
+Kutipan dari klien yang puas dengan layanan Anda.
+Nama dan gambar profil klien untuk meningkatkan kepercayaan.
+
+5.Tentang Kami:
+Profil singkat perusahaan Anda, termasuk visi dan misi.
+Tim Anda, dengan gambar dan biodata singkat mereka.
+
+6.Proses Kerja:
+Rincian langkah-langkah dan proses yang Anda terapkan dalam pembuatan aplikasi.
+Bagaimana klien dapat berinteraksi dengan Anda selama proses ini.
+
+7.Harga dan Paket:
+Daftar paket layanan dengan rincian harga untuk masing-masing paket.
+Opsi untuk mendapatkan penawaran kustom.
+
+8.Hubungi Kami:
+Formulir kontak untuk klien potensial mengirimkan permintaan atau pertanyaan.
+Informasi kontak seperti alamat, nomor telepon, dan alamat email.
+
+9.Blog:
+Bagian untuk berbagi berita terkini tentang industri aplikasi dan teknologi terkait.
+Artikel yang berguna dan informatif untuk menarik pembaca dan memperkuat otoritas Anda.
+
+10.Halaman Kebijakan dan Ketentuan:
+Klarifikasi tentang kebijakan privasi, syarat dan ketentuan penggunaan, dan hak cipta.
+Pastikan juga desain website Anda menarik, responsif (mobile-friendly), dan mudah dinavigasi. Jangan lupa untuk mencantumkan informasi kontak dengan jelas agar klien dapat dengan mudah menghubungi Anda. Selamat mencoba membuat website untuk jasa pembuatan dan penjualan aplikasi!
